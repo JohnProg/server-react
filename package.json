@@ -1,0 +1,17 @@
+{
+  "name": "react-server-side",
+  "version": "0.0.1",
+  "description": "React in the server side",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "author": "John Machahuay",
+  "dependencies": {
+    "express": "^4.13.4",
+    "react": "^0.14.7",
+    "react-dom": "^0.14.7"
+  },
+  "devDependencies": {}
+}
